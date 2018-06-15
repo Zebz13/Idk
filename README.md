@@ -1,2 +1,2 @@
 # Idk
-Just learning his to make a repo
+Just learning how to make a repo
